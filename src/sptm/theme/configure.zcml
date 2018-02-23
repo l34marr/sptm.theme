@@ -13,7 +13,7 @@
 
   <plone:static
     name="sptm"
-    directory="resource"
+    directory="resources"
     type="theme" />
 
   <genericsetup:registerProfile
